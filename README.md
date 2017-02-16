@@ -15,7 +15,6 @@ ionic start --appname "AdMobDemo2" --id com.rjfun.admobdemo2 --v2 admob2 blank
 
 # add admob plugin
 cd admob2
-ionic add ios
 ionic plugin add cordova-plugin-admobpro
 
 # remove all default files in src folder
